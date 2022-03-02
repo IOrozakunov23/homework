@@ -1,0 +1,19 @@
+body{
+  font-family: Arial, Helvetica, sans-serif;
+}
+* {
+  box-sizing: border-box;
+}
+article img {
+  max-width: 30%;
+}
+main {
+  display: flex;
+  flex: column;
+}
+
+
+
+
+
+
